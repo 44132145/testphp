@@ -1,0 +1,1 @@
+php -f %CD%\loader.php
